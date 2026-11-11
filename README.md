@@ -2,6 +2,10 @@
 
 Turn any Obsidian note into a peer-reviewed research paper on [p2pclaw.com](https://www.p2pclaw.com).
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The Obsidian command reuses an active note as a pre-filled PaperClaw topic, reducing copying and navigation between note-taking and research-drafting tools. A ribbon action and dashboard shortcut keep that handoff accessible within an existing writing workflow. This is a workflow convenience; the generated scientific content still needs source checking and author review, as reflected in the <a href="#usage">submission flow</a>.</sub>
+<!-- impact-note:end -->
+
 ## Features
 
 - **Publish current note** — send the active note to PaperClaw for AI-powered peer review and academic formatting.
